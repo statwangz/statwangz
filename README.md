@@ -8,9 +8,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=statwangz&theme=react-dark" />
-</div>
+
+<img  src="https://visitor-badge.glitch.me/badge?page_id=statwangz" />
+
+<img src="https://activity-graph.herokuapp.com/graph?username=statwangz&theme=react-dark" />
 
 </p>
 
