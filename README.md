@@ -8,20 +8,20 @@
   <img src="https://komarev.com/ghpvc/?username=statwangz&label=Profile%20views&color=0e75b6&style=flat" alt="statwangz" /> 
 </p>
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=statwangz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=statwangz&layout=compact&theme=buefy&hide_border=true" /></a> 
+<div align="center">
+    <img src="https://metrics.lecoq.io/statwangz?template=classic&config.timezone=Asia%2FHongKong">
+</div>
+
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=statwangz" /></a> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=statwangz" /></a> 
 
 #### Top Repositories
 
-
 <a href="https://github.com/statwangz/MATH-4432-Statistical-Machine-Learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=statwangz&repo=MATH-4432-Statistical-Machine-Learning&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=statwangz&repo=MATH-4432-Statistical-Machine-Learning" />
 </a>
 <a href="https://github.com/statwangz/HSS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=statwangz&repo=HSS&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=statwangz&repo=HSS" />
 </a>
-
-<br />
-<br />
 
 <p align="left">
   <img src="https://activity-graph.herokuapp.com/graph?username=statwangz&theme=react-dark" />
