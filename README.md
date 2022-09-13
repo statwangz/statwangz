@@ -8,8 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=statwangz&label=Profile%20views&color=0e75b6&style=flat" alt="statwangz" /> 
 </p>
 
-**About me**
-
 I am currently a second-year Ph.D. student at The Hong Kong University of Science and Technology (HKUST).
 My research interests lie broadly in the span of statistical machine learning and data science with applications in genetics and genomics data. 
 
