@@ -8,11 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=statwangz&label=Profile%20views&color=0e75b6&style=flat" alt="statwangz" /> 
 </p>
 
-<div align="center">
-    <img src="https://metrics.lecoq.io/statwangz?template=classic&config.timezone=Asia%2FHongkong">
-</div>
-
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=statwangz" /></a> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=statwangz" /></a> 
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=statwangz&show_icons=true&include_all_commits=true&hide_border=true" alt="Zhiwei's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=statwangz&layout=compact&hide_border=true" /></a> |
 
 #### Top Repositories
 
@@ -22,6 +18,8 @@
 <a href="https://github.com/statwangz/HSS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=statwangz&repo=HSS" />
 </a>
+
+</br>
 
 <p align="left">
   <img src="https://activity-graph.herokuapp.com/graph?username=statwangz&theme=react-dark" />
