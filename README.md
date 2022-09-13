@@ -2,7 +2,7 @@
 <h3 align="center">A Ph.D. student at HKUST</h3>
 
 <p align="left">
-  <img  src="https://visitor-badge.glitch.me/badge?page_id=statwangz" />
+  <img  src="https://visitor-badge.glitch.me/badge?page_id=statwangz&left_color=green&right_color=red" />
   <img src="https://komarev.com/ghpvc/?username=statwangz&label=Profile%20views&color=0e75b6&style=flat" alt="statwangz" /> 
 </p>
 
