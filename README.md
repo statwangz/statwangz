@@ -6,6 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=statwangz&label=Profile%20views&color=0e75b6&style=flat" alt="statwangz" /> 
 </p>
 
+<div align="center">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=statwangz&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+
 <p align="left">
   <img src="https://activity-graph.herokuapp.com/graph?username=statwangz&theme=react-dark" />
 </p>
