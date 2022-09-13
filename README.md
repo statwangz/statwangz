@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Zhiwei！</h1>
-<h3 align="center">A Ph.D. student at HKUST</h3>
+<h3 align="center">MATH, HKUST</h3>
 
 
 <!--visitors-->
@@ -8,9 +8,14 @@
   <img src="https://komarev.com/ghpvc/?username=statwangz&label=Profile%20views&color=0e75b6&style=flat" alt="statwangz" /> 
 </p>
 
+**About me**
+
+I am currently a second-year Ph.D. student at The Hong Kong University of Science and Technology (HKUST).
+My research interests lie broadly in the span of statistical machine learning and data science with applications in genetics and genomics data. 
+
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=statwangz&show_icons=true&include_all_commits=true&hide_border=true" alt="Zhiwei's github stats" /></a> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=statwangz&layout=compact&hide_border=true" /></a>
 
-#### Top Repositories
+**Top Repositories**
 
 <a href="https://github.com/statwangz/MATH-4432-Statistical-Machine-Learning">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=statwangz&repo=MATH-4432-Statistical-Machine-Learning" />
