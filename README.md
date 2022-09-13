@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-    <img src="https://metrics.lecoq.io/statwangz?template=classic&config.timezone=Asia%2FHongKong">
+    <img src="https://metrics.lecoq.io/statwangz?template=classic&config.timezone=Asia%2FHongkong">
 </div>
 
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=statwangz" /></a> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=statwangz" /></a> 
