@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Zhiwei！</h1>
-<h3 align="center">A Ph.D. student in HKUST</h3>
+<h3 align="center">A Ph.D. student at HKUST</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=statwangz&label=Profile%20views&color=0e75b6&style=flat" alt="statwangz" /> </p>
 
