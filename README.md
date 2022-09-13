@@ -8,12 +8,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=statwangz&theme=xcode" />
-</div>
-
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=statwangz&show_icons=true&locale=en" alt="statwangz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=statwangz&" alt="statwangz" /></p>
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=statwangz&theme=xcode" />
+</div>
