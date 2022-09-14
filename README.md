@@ -12,4 +12,5 @@
 I am currently a second-year Ph.D. student at The Hong Kong University of Science and Technology (HKUST).
 My research interests lie broadly in the span of statistical machine learning and data science with applications in genetics and genomics data. 
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=statwangz&show_icons=true&include_all_commits=true&hide_border=true" alt="Zhiwei's github stats" /></a> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=statwangz&layout=compact&hide_border=true" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=statwangz&show_icons=true&include_all_commits=true&hide_border=true" alt="Zhiwei's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=statwangz&layout=compact&hide_border=true" />
